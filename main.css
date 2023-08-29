@@ -24,6 +24,7 @@ form {
     background-color: #C8D6E5;
     padding: 24px 0;
     text-align: center;
+    display: none;
 }
 
 form h2 {

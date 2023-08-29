@@ -1,6 +1,6 @@
 $(document).ready(function() {
     $(`header button`).click(function() {
-        $(`form`).slideDowm();
+        $(`form`).slideDown();
     })
 
     $(`#botao-cancelar`).click(function() {
